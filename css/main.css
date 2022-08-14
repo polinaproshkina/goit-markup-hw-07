@@ -170,8 +170,8 @@ img {
 
 .hero {
   background-color: #c4c4c4;
-  background-image: -webkit-gradient(linear, left top, right top, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("/img/bkg-hero.jpg");
-  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("/img/bkg-hero.jpg");
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("../../img/bkg-hero.jpg");
+  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../../img/bkg-hero.jpg");
   background-position: center;
   max-width: 1600px;
   text-align: center;
@@ -458,16 +458,16 @@ img {
           box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 .features__item:nth-child(1)::before {
-  background-image: url("/img/svg-icons/antenna.svg");
+  background-image: url("../../img/svg-icons/antenna.svg");
 }
 .features__item:nth-child(2)::before {
-  background-image: url("/img/svg-icons/clock.svg");
+  background-image: url("../../img/svg-icons/clock.svg");
 }
 .features__item:nth-child(3)::before {
-  background-image: url("/img/svg-icons/diagram.svg");
+  background-image: url("../../img/svg-icons/diagram.svg");
 }
 .features__item:nth-child(4)::before {
-  background-image: url("/img/svg-icons/astronaut.svg");
+  background-image: url("../../img/svg-icons/astronaut.svg");
 }
 
 .features {

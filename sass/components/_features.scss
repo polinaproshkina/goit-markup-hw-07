@@ -53,16 +53,16 @@
 
   
   &:nth-child(1)::before {
-    background-image: url('/img/svg-icons/antenna.svg');
+    background-image: url('../../img/svg-icons/antenna.svg');
   }
   &:nth-child(2)::before {
-    background-image: url('/img/svg-icons/clock.svg');
+    background-image: url('../../img/svg-icons/clock.svg');
   }
   &:nth-child(3)::before {
-    background-image: url('/img/svg-icons/diagram.svg');
+    background-image: url('../../img/svg-icons/diagram.svg');
   }
   &:nth-child(4)::before {
-    background-image: url('/img/svg-icons/astronaut.svg');
+    background-image: url('../../img/svg-icons/astronaut.svg');
   }
 }
   .features {
